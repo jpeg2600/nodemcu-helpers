@@ -1,5 +1,5 @@
-# nodemcu-ledctl
+# nodemcu-helpers
 
-Simple scripts to control LEDs (or anything else) plugged in the GPIOs. ON and OFF or PWM
+Simple scripts to do things more easily on the NodeMCU.
 
 
