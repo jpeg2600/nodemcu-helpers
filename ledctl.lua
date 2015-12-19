@@ -57,6 +57,6 @@ function fade(pin,speed,frequency, step)
 end
 
 --fade(pin,speed,frequency, step)
-tmr.alarm(6,5000,1,function() fade(math.random(1,6),2,1000,1) end)
-tmr.stop(6)
+--tmr.alarm(6,5000,1,function() fade(math.random(1,6),2,1000,1) end)
+--tmr.stop(6)
 
